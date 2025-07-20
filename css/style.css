@@ -21,7 +21,7 @@ main{
     background-color: #0076aa;
 }
 #surf{
-    background-image: url("/img/surf.png");
+    background-image: url("https://raw.githubusercontent.com/LHMezentier1/labsurf/refs/heads/main/img/surf.png");
     height:900px;
     width:95%;
     margin-left:50px;
